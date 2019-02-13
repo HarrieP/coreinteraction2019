@@ -1,0 +1,65 @@
+html, body {	
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+* {	
+	box-sizing: border-box;
+}
+
+
+
+header {
+	width: 100%;
+	height: 30%;
+	margin: 0 0 0 0;
+	background-color: white;
+	float: left;
+}
+
+aside {
+	width: 40%;
+	height: 40%;
+	margin: 0px 0px 0px 0px;
+	float: left;
+	background-color: #9DE8F6;
+}
+
+main {
+	width: 60%;
+	height: 40%;
+	margin: 0px 0px 0px 0px;
+	float: left;
+	background-color: #D4A7F6;
+}
+
+
+
+
+main section {
+	border-style: solid;
+	width: 100%;
+	height: 50%;
+	float: left;
+
+}
+
+
+aside section {
+	border-style: dotted;
+	width: 100%;
+	height: 50%;
+	float: right;
+
+}
+
+
+footer {
+	background-color: #F6A7E4;
+	margin: 0px 0px 0px 0px;
+	width: 100%;
+	height: 40%;
+	margin: 0px 0px 0px 0px;
+	display: table;
+}
+
