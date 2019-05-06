@@ -1,6 +1,7 @@
 body { 
+  width: 100%;
 	background-size: cover;
-	padding: 5px; 
+	padding: 2vw; 
 	display: inline-block;
 	text-decoration: none; 
 	transition: all 0.3s;
@@ -15,7 +16,7 @@ body:hover {
 
 @media ( min-width: 768px ) {
   #jb-container {
-      width: 940px;
+      width: 6vw;
     }
 
 @keyframes rainbow-background {
