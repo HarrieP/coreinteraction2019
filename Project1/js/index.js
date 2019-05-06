@@ -2,8 +2,6 @@
 //being sarcastic
 //not about me
 
-
-
 $(document).ready(function() {
   $(this).mousemove(function(e) {
     $("#light").css({
