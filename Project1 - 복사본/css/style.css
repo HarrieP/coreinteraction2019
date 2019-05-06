@@ -70,8 +70,8 @@ h1 {
 
 .pogi {
   position: absolute;
-  bottom: 70%;
-  right: 75%;
+  bottom: 25%;
+  right: 40%;
   font-family: "Courier New", Courier, monospace;
   
 }
@@ -79,8 +79,8 @@ h1 {
 
 .pogi2 {
   position: absolute;
-  bottom: 50%;
-  right: 55%;
+  bottom: 25%;
+  right: 25%;
   font-family: "Courier New", Courier, monospace;
   
 }
