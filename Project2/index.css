@@ -14,10 +14,7 @@ body:hover {
 	background-image: linear-gradient(to top, #333 50%, #fff 50%);
 }
 
-@media ( min-width: 768px ) {
-  #jb-container {
-      width: 6vw;
-    }
+
 
 @keyframes rainbow-background {
          0%     { background-color: #84574a; }
